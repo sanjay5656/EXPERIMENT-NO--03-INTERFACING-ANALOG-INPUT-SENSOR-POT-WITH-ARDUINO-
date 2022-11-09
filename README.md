@@ -95,7 +95,7 @@ void loop()
 **Simulation output:** 
 **
 
-
+![output](inte2op1.png)
 
 
 

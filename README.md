@@ -67,7 +67,7 @@ CIRCUIT DIAGRAM
 
 
 **PROGRAM** 
- 
+ ```
 int sensorvalue = A0;
 int LED=7;
 void setup()
@@ -86,8 +86,10 @@ void loop()
   delay(5);
   digitalWrite(LED,sensorvalue);
   delay(5);
+ 
 }
 
+```
 
 **
 **Simulation output:** 
